@@ -1,5 +1,3 @@
-package test;
-
 import net.sourceforge.tess4j.ITesseract;
 import net.sourceforge.tess4j.Tesseract;
 import net.sourceforge.tess4j.TesseractException;
@@ -7,7 +5,7 @@ import net.sourceforge.tess4j.TesseractException;
 import java.io.File;
 
 /**
- * @Author: tant
+ * @Author: nanan
  * @Date: 2022/6/15 9:39
  */
 public class testOCR {
